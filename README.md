@@ -10,7 +10,7 @@
 ---
 
 - 🔭 Currently building: **FixItNow - A Home Service Platform**
-- 🧠 Learning: **Advanced React, Spring Boot, Docker, AWS**
+- 🧠 Learning: **Advanced React, Spring Boot, Docker, AWS, RAG, LangChain, PySpark**
 - 💬 Ask me about: **React, Spring Boot, Clean Architecture, REST APIs**
 - 📫 Reach me at: **guptaayush1280@gmail.com**
 
